@@ -21,9 +21,9 @@ design iterations are documented here
 ![img3](./media/1.png)
 
 
-# communication:
-<iframe src="./media/wannes_rens.pdf" width="800px" height="600px"></iframe>
 
+# Communication
+[View PDF](./media/wannes_rens.pdf)
 
 
 ## inspiration:
