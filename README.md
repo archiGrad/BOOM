@@ -18,7 +18,32 @@ boom project with wannes. sensor implementatie
 # design:
 design iterations are documented here
 ![img3](./media/1.png)
-
+[img](./media/q_1.png)
+[img](./media/q_2.png)
+[img](./media/q_3.png)
+[img](./media/q_4.png)
+[img](./media/q_5.png)
+[img](./media/q_6.png)
+[img](./media/q_7.png)
+[img](./media/q_8.png)
+[img](./media/q_9.png)
+[img](./media/q_10.png)
+[img](./media/q_11.png)
+[img](./media/q_12.png)
+[img](./media/q_13.png)
+[img](./media/q_14.png)
+[img](./media/q_15.png)
+[img](./media/q_16.png)
+[img](./media/q_17.png)
+[img](./media/q_18.png)
+[img](./media/q_19.png)
+[img](./media/q_20.png)
+[img](./media/q_21.png)
+[img](./media/q_22.png)
+[img](./media/q_23.png)
+[img](./media/q_24.png)
+[img](./media/q_25.png)
+[img](./media/q_26.png)
 
 
 # Communication
