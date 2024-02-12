@@ -9,9 +9,8 @@ boom project with wannes. sensor implementatie
     download symbol from snapeda: https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do%20it/view-part/?t=esp32%20devkitv1
 
 
-3: board schematics
-<iframe src="./media/fuse_box_schematic.pdf" width="800px" height="600px"></iframe>
-
+# Board Schematics
+[View Schematics PDF](./media/fuse_box_schematic.pdf)
 
 
 
