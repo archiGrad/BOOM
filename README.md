@@ -8,9 +8,23 @@ boom project with wannes. sensor implementatie
 2: screw terminal breakoput board for esp32. kiCad diagram and schamatics.
     download symbol from snapeda: https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do%20it/view-part/?t=esp32%20devkitv1
 
+
+3: board schematics
+<iframe src="./media/fuse_box_schematic.pdf" width="800px" height="600px"></iframe>
+
+
+
+
+
 # design:
 design iterations are documented here
 ![img3](./media/1.png)
+
+
+# communication:
+<iframe src="./media/wannes_rens.pdf" width="800px" height="600px"></iframe>
+
+
 
 ## inspiration:
 install esp32 block  on bin rail
