@@ -57,6 +57,13 @@ https://www.tinytronics.nl/
 ![img](./media/w_4.png)
 ![img](./media/w_5.png)
 
+
+https://www.2dehands.be/v/hobby-en-vrije-tijd/elektronica-componenten/m2070819776-raspberry-pi-4-8gb-ram-32gb-sd
+raspberry pi 4 8g 2de hands for backedn
+![img](./media/w_6.png)
+
+
+
 # Communication
 [View PDF](./media/wannes_rens.pdf)
 
