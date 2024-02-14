@@ -46,9 +46,14 @@ design iterations are documented here
 ![img](./media/q_26.png)
 
 # partslist
+
+
+https://www.automation24.be/nl/
 ![img](./media/w_1.png)
 ![img](./media/w_2.png)
 ![img](./media/w_3.png)
+
+https://www.tinytronics.nl/
 ![img](./media/w_4.png)
 ![img](./media/w_5.png)
 
