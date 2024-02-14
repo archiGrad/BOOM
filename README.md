@@ -45,6 +45,12 @@ design iterations are documented here
 ![img](./media/q_25.png)
 ![img](./media/q_26.png)
 
+# partslist
+![img](./media/w_1.png)
+![img](./media/w_2.png)
+![img](./media/w_3.png)
+![img](./media/w_4.png)
+![img](./media/w_5.png)
 
 # Communication
 [View PDF](./media/wannes_rens.pdf)
