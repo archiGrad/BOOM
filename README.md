@@ -105,6 +105,10 @@ raspberry pi 4 8g 2de hands for backedn
 
 
 ## inspiration:
+
+hacker manifesto
+https://archive.org/details/pdfy-RtCf3CYEbjKrXgFe/page/n175/mode/2up
+
 scematics example
 https://boredomprojects.net/index.php/projects/sensors-for-hems
 
