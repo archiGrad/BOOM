@@ -62,6 +62,42 @@ https://www.2dehands.be/v/hobby-en-vrije-tijd/elektronica-componenten/m207081977
 raspberry pi 4 8g 2de hands for backedn
 ![img](./media/w_6.png)
 
+# progressphotos
+## visit 1
+
+
+![img](./media/IMG_4722.JPG)
+![img](./media/IMG_4723.JPG)
+![img](./media/IMG_4724.JPG)
+![img](./media/IMG_4725.JPG)
+![img](./media/IMG_4726.JPG)
+![img](./media/IMG_4727.JPG)
+![img](./media/IMG_4728.JPG)
+![img](./media/IMG_4729.JPG)
+![img](./media/IMG_4730.JPG)
+![img](./media/IMG_4731.JPG)
+![img](./media/IMG_4732.JPG)
+![img](./media/IMG_4733.JPG)
+![img](./media/IMG_4734.JPG)
+![img](./media/IMG_4735.JPG)
+![img](./media/IMG_4736.JPG)
+![img](./media/IMG_4737.JPG)
+![img](./media/IMG_4738.JPG)
+![img](./media/IMG_4739.JPG)
+![img](./media/IMG_4740.JPG)
+![img](./media/IMG_4741.JPG)
+![img](./media/IMG_4742.JPG)
+![img](./media/IMG_4743.JPG)
+![img](./media/IMG_4744.JPG)
+![img](./media/IMG_4745.JPG)
+![img](./media/IMG_4746.JPG)
+![img](./media/IMG_4747.JPG)
+![img](./media/IMG_4748.JPG)
+![img](./media/IMG_4749.JPG)
+![img](./media/IMG_4750.JPG)
+![img](./media/IMG_4751.JPG)
+![img](./media/IMG_4752.JPG)
+![img](./media/IMG_4753.JPG)
 
 
 # Communication
