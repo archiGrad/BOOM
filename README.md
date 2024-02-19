@@ -69,6 +69,9 @@ raspberry pi 4 8g 2de hands for backedn
 
 
 ## inspiration:
+scematics example
+https://boredomprojects.net/index.php/projects/sensors-for-hems
+
 install esp32 block  on bin rail
 https://www.youtube.com/watch?v=UIU_M9MApd0
 
@@ -76,6 +79,17 @@ kiCad pcb layout: https://www.youtube.com/watch?v=3FGNw28xBr0
 
 make an esp32 breakout block with terminal screws: https://www.youtube.com/watch?v=nSP0rKtDYko
 
+visual inspiration from pingro craters in svalbard
+https://www.researchgate.net/figure/The-pingo-and-crater-sites-A-overview-of-the-pingo-site-location-5-in-Fig-1_fig2_329979008
+
+![img](./media/pingo_crater_1.jpg)
+![img](./media/pingo_crater_2.jpg)
+![img](./media/pingo_crater_3.jpg)
+![img](./media/pingo_crater_4.jpg)
+![img](./media/pingo_crater_5.jpg)
+![img](./media/pingo_crater_6.jpg)
+![img](./media/pingo_crater_7.jpg)
+![img](./media/pingo_crater_8.jpg)
 
 
 
