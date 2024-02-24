@@ -101,7 +101,64 @@ raspberry pi 4 8g 2de hands for backedn
 
 
 # Communication
+
+### bespreking 1
+veel kiezels, knmikkers in basin voor insecten
+ volgebadplaats wel 2 cm diepte nodig
+
+
+oppervlakte maakt ni zoveel ui, afwatering naar allerlei andere plaatsten.
+
+
+
+toevoegingen:
+shaduw: hout, waartplant en egel compiostvat
+bomen kunnen naar elkaar toegroeien, verbinding tussen elkaar
+
+
+
+
+-------------------------
+
+
+voor nu: waterbasin, en bloempot afmaken voor 13e
+in patio, 3meter hoogte
+
+van 3.2m tot 4m
+
+### bespreking 2
+wannes:
+onderkant te zwaar
+meer fragiliteit
+chaos particles iets j=hogert gesiuturred
+animatie van gesiluleerde vectors
+
+
+### bespreking 3
+ris, zoals ik al schreef in de groep, bedankt voor het harde werk en het tijdig afleveren van een model aan Yannick. Een fysiek schaalmodel gaat alles voor de klant veel tastbaarder maken en mij helpen in het overtuigen 🙏
+
+Wat betreft een offerte/inschatting voor deel 2 zou ik graag een inschatting hebben voor 3 modellen en een inschatting voor 5 modellen. Graag zou ik dit zondag ontvangen
+
+Wat betreft een korte 'groeivideo' lukt het om dit tegen maandag door te sturen ? 
+
+Wat betreft de 'bloempot'-structuur, dit mag van mij gewoon een variatie met andere seed zijn van het huidige model, het is maar dat ik een variatie kan tonen. Graag tegen zondag (?)
+
+Ik stuur je straks een beeld van een tuinimpressie, als je me dan 3 renders vanuit dit oogpunt ( 1x bloempot, 2x waterbassin vanuit een verschillende hoek) met een neutraal licht (liefst al met mat zwart materiaal) kan sturen  dan kan ik een impressie maken van het geheel.
+
+Verder zie ik dat er heel wat meer werk in het geheel is gekropen, dit komt deels omdat ik je niet vanaf het begin van de volledige informatie wist te voorzien, ik vind het dan ook slechts logisch dat ik je hiervoor vergoed, ik dacht aan €1100, laat maar weten of je hiermee akkoord gaat. 
+
+Merci!
+
+
+
+
+
+
+
+
+### bespreking wannes_rens
 [View PDF](./media/wannes_rens.pdf)
+
 
 
 ## inspiration:
