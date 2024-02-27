@@ -100,14 +100,14 @@ raspberry pi 4 8g 2de hands for backedn
 ![img](./media/visit_1/IMG_4753.JPG)
 
 
-![img](./media/drone_footage_1/drone_shot_1.jpg)
-![img](./media/drone_footage_1/drone_shot_2.jpg)
-![img](./media/drone_footage_1/drone_shot_3.jpg)
-![img](./media/drone_footage_1/drone_shot_4.jpg)
-![img](./media/drone_footage_1/drone_shot_5.jpg)
-![img](./media/drone_footage_1/drone_shot_6.jpg)
-![img](./media/drone_footage_1/drone_shot_7.jpg)
-![img](./media/drone_footage_1/drone_shot_8.jpg)
+![img](./media/drone_footage_1/drone_shot_1.jpeg)
+![img](./media/drone_footage_1/drone_shot_2.jpeg)
+![img](./media/drone_footage_1/drone_shot_3.jpeg)
+![img](./media/drone_footage_1/drone_shot_4.jpeg)
+![img](./media/drone_footage_1/drone_shot_5.jpeg)
+![img](./media/drone_footage_1/drone_shot_6.jpeg)
+![img](./media/drone_footage_1/drone_shot_7.jpeg)
+![img](./media/drone_footage_1/drone_shot_8.jpeg)
 
 
 # Communication
