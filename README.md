@@ -2,8 +2,13 @@
 boom project with wannes. sensor implementatie
 ## includes
 1: test blinkercode for 32 wroom with, but power supply is not going tgrough microusb, but through the board.  this is so we can connect the board safely to ther terminal block. in the following example i connect the VCC and GND from a 5v convertedr inbto the VIN pin and ibn tot GND pin of the nmicrocontroller though a breadboard.
-![img1](./media/a1.jpeg)
-![img2](./media/a2.jpeg)
+
+
+
+<div style="display: flex; flex-wrap: wrap;">
+	<img src="./media/a1.jpeg" width="50%">
+	<img src="./media/a2.jpeg" width="50%">
+</div>
 
 2: screw terminal breakoput board for esp32. kiCad diagram and schamatics.
     download symbol from snapeda: https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do%20it/view-part/?t=esp32%20devkitv1
