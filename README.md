@@ -6,8 +6,8 @@ boom project with wannes. sensor implementatie
 
 
 <div style="display: flex; flex-wrap: wrap;">
-	<img src="./media/a1.jpeg" width="50%">
-	<img src="./media/a2.jpeg" width="50%">
+	<img src="./media/a1.jpeg" width="45%">
+	<img src="./media/a2.jpeg" width="45%">
 </div>
 
 2: screw terminal breakoput board for esp32. kiCad diagram and schamatics.
