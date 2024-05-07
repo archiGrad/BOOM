@@ -221,6 +221,32 @@ Merci!
 
 
 
+TODO:
+
+
+documentje dimitri,
+eerst factuur doorsturen
+
+fase 1
+
+plaatsinmg tov trap en plaatsing vermolmd hout 
+bekabeling
+enkel buitenstructuur
+bekabeling, 180 graden -> 15 cm
+16mm dikte druppeldarm
+langs 1 poot omhhog, mag naar bionnen en buiten, plooihoek.
+
+yannick
+druppeldarm test, iun , uit, hoek, interne externe diameter
+textuur test, richring verticaal nerven,
+test met eilnaden
+
+
+
+
+
+
+
 
 
 
