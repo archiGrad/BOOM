@@ -110,7 +110,6 @@ https://www.tinytronics.nl/
 	<img src="./media/visit_1/IMG_4753.JPG" width="30%">
 </div>
 
-
 ### drone footage
 
 <div style="display: flex; flex-wrap:wrap">
@@ -122,6 +121,16 @@ https://www.tinytronics.nl/
 	<img src="./media/drone_footage_1/drone_shot_6.jpeg" width="30%">
 	<img src="./media/drone_footage_1/drone_shot_7.jpeg" width="30%">
 	<img src="./media/drone_footage_1/drone_shot_8.jpeg" width="30%">
+</div>
+
+
+
+### print pics
+
+<div style="display: flex; flex-wrap:wrap">
+	<img src="./media/drone_footage_1/IMG20240718155106.jpg" width="30%">
+	<img src="./media/drone_footage_1/IMG20240718155114.jpg" width="30%">
+	<img src="./media/drone_footage_1/ IMG20240718155143.jpg" width="30%">
 </div>
 
 # Communication
