@@ -128,9 +128,9 @@ https://www.tinytronics.nl/
 ### print pics
 
 <div style="display: flex; flex-wrap:wrap">
-	<img src="./media/drone_footage_1/IMG20240718155106.jpg" width="30%">
-	<img src="./media/drone_footage_1/IMG20240718155114.jpg" width="30%">
-	<img src="./media/drone_footage_1/ IMG20240718155143.jpg" width="30%">
+	<img src="./media/print_pics/IMG20240718155106.jpg" width="30%">
+	<img src="./media/print_pics/IMG20240718155114.jpg" width="30%">
+	<img src="./media/print_pics/ IMG20240718155143.jpg" width="30%">
 </div>
 
 # Communication
